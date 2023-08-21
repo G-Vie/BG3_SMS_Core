@@ -1,9 +1,9 @@
 {
     "mods": [
     {
-        "modName": "Sword Meets Sorcery - Sorcerer",
-        "UUID": "7615400f-e336-4e01-9b32-7e1eda938e17",
-        "folderName": "SwordMSorcery",
+        "modName": "SCAG Cantrips - Extra Attack Fix",
+        "UUID": "d8af16d2-1a4a-4216-a146-efdcdfdc9315",
+        "folderName": "ExtraAttackFix",
         "version": "1",
         "MD5": ""
     }
