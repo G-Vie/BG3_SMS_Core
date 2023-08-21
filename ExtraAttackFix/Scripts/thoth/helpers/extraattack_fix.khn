@@ -1,0 +1,3 @@
+function ExtraAttackCheck_SC()
+    return (HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') | HasStringInSpellRoll('ThrowAttack') | SpellId('Target_CommandersStrike') | SpellId('Projectile_ArrowOfSmokepowder')) & HasUseCosts('ActionPoint') & ~IsCantrip()
+end
