@@ -3,7 +3,7 @@ function GVIE_ExtraAttackCheck()
 end
 
 function MainHand_ExtraAttackCheck()
-    return (HasStringInSpellRoll('MeleeWeaponAttack') | SpellId('Target_CommandersStrike')) & HasUseCosts('ActionPoint')
+    return HasStringInSpellRoll('MeleeWeaponAttack') & HasUseCosts('ActionPoint')
 end
 
 function GVIE_HasAnyExtraAttack(entity)
