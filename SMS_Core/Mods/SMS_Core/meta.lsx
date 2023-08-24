@@ -8,14 +8,14 @@
                 <node id="ModuleInfo">
                     <attribute id="Author" type="LSWString" value="GVie"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
-                    <attribute id="Description" type="LSWString" value="Supporting compatibility for different mods that attempt to edit extra attacks."/>
-                    <attribute id="Folder" type="LSWString" value="ExtraAttackFix"/> 
+                    <attribute id="Description" type="LSWString" value="Supporting compatibility for different mods that attempt to edit or add new extra attack functionality"/>
+                    <attribute id="Folder" type="LSWString" value="SMS_Core"/> 
                     <attribute id="GMTemplate" type="FixedString" value=""/>
                     <attribute id="LobbyLevelName" type="FixedString" value=""/>
                     <attribute id="MD5" type="LSString" value=""/>
                     <attribute id="MainMenuBackgroundVideo" type="FixedString" value=""/>
                     <attribute id="MenuLevelName" type="FixedString" value=""/>
-                    <attribute id="Name" type="FixedString" value="Extra Attack Compatibility"/>
+                    <attribute id="Name" type="FixedString" value="Sword Meets Sorcery - Core"/>
                     <attribute id="NumPlayers" type="uint8" value="4"/>
                     <attribute id="PhotoBooth" type="FixedString" value=""/>
                     <attribute id="StartupLevelName" type="FixedString" value=""/>
